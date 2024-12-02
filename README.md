@@ -5,7 +5,8 @@ This has been designed for Natural Disaster Coordination, providing a platform t
 
 
 
-<img width="1049" alt="Screenshot 2024-11-20 at 6 18 54 PM" src="https://github.com/user-attachments/assets/9639db00-4d64-4d31-b4e1-135b16eafddb">
+<img width="1236" alt="Screenshot 2024-12-02 at 2 40 56 PM" src="https://github.com/user-attachments/assets/012b094b-0c66-458c-b8c0-c15dae710eb2">
+
 
 
 <img width="842" alt="Screenshot 2024-11-20 at 6 19 03 PM" src="https://github.com/user-attachments/assets/6cbbb988-4320-441c-a073-891e1fcc9b3a">
